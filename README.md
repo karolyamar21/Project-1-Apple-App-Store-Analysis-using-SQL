@@ -15,9 +15,29 @@
 
 ## Prepare:
 
-Files: Dateset from Kaggle
-Applestore.csv
-appleStore_description.csv
+1.Files: Dateset from Kaggle
+[AppleStore.csv](https://github.com/karolyamar21/SQL-data-Analytics/files/14450809/AppleStore.csv)
+[appleStore_description.csv](https://github.com/karolyamar21/SQL-data-Analytics/files/14450810/appleStore_description.csv)
+
+
+## Process: 
+
+Tools: SQL, https://sqliteonline.com/
+SQL Functions: 
+Used JOIN
+Aggregate functions
+SELECT CASE
+
+
+## Analysis:
+
+1.Get an overview if the apps ratings
+2.Determine if Paid apps have higher ratings than Free
+3.Does App that support more language have higher ratings
+4.Determine Genre with low rating
+5.Check correlation with app description and user ratings
+6.Check Top rated apps for each category
+
 
 
 
