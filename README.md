@@ -31,13 +31,38 @@ SELECT CASE
 
 ## Analysis:
 
-1.Get an overview if the apps ratings
-2.Determine if Paid apps have higher ratings than Free
-3.Does App that support more language have higher ratings
-4.Determine Genre with low rating
-5.Check correlation with app description and user ratings
-6.Check Top rated apps for each category
+Steps
+
+1. Get an overview if the apps ratings
+2. Determine if Paid apps have higher ratings than Free
+3. Does App that support more language have higher ratings
+4. Determine Genre with low rating
+5. Check correlation with app description and user ratings
+6. Check Top rated apps for each category
+
+## Share:
+
+Final Insights
+
+1. Paid apps have better ratings
+2. apps with langugage support from 10-30 have better ratings
+3. Finance and Books apps have low ratings
+4. Longer app description have higher ratings
+5. Games and entertainment have high competion high user demand
 
 
+## Act:
 
+Suggested steps to App Developer for next new App
 
+1. Develop an app that can support 10-30 different languages
+2. For apps with lower ratings, develop a better app from these categories
+3. Make app description with minimum 500 words
+4. Games and entertainment categories are challenging to develop since these are already saturated with high competition as well
+
+For further questions:
+karolineyamar@gmail.com
+karoleyamar@yahoo.com
+
+Reference:
+Youtube: [@loresowhat](https://www.youtube.com/@loresowhat)https://www.youtube.com/@loresowhat
