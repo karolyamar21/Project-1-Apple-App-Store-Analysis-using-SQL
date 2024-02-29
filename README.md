@@ -13,6 +13,11 @@
 5. What are the top app categories
 6. What are the most poular app per category
 
+## Prepare:
+
+Files: Dateset from Kaggle
+Applestore.csv
+appleStore_description.csv
 
 
 
