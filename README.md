@@ -40,6 +40,8 @@ Steps
 5. Check correlation with app description and user ratings
 6. Check Top rated apps for each category
 
+View Code here: 👉 
+
 ## Share:
 
 Final Insights
